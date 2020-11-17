@@ -9,6 +9,8 @@ A python environment file (.yml) has been included.
 
 #### Installing
 
+Several excel workbooks have been included that can be used as test data.  
+
 The csv file "quant_limit_chart_ICPMS" should be in the same directory as the source data.  The user should select appropriate values that correspond to their instrument/application.
 
 ## Future Versions
