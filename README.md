@@ -1,5 +1,5 @@
 # ICPMS-Data-Processor
-This project utilizes python to combine and process dataframes sourced from excel spreadsheets of ICP-MS data that have been exported from Agilent's Masshunter software.  A series of excel spreadsheets demonstrating the transformations, a reporting/quantification limit chart, and a table of extracted method blanks are returned.
+This project utilizes python to combine and process dataframes sourced from excel spreadsheets of ICP-MS data that have been exported from Agilent's Masshunter software.  A series of excel spreadsheets demonstrating the transformations, a customized reporting/quantification limit chart, and a table of extracted method blanks are returned.
 
 ## Getting Started
 
