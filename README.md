@@ -1,16 +1,16 @@
 # ICPMS-Data-Processor
-Automates elemental data analysis.
+This project utilizes python to combine and process dataframes sourced from excel spreadsheets of ICP-MS data that have been exported from Agilent's Masshunter software.  A series of excel spreadsheets demonstrating the transformations, a reporting/quantification limit chart, and a table of extracted method blanks are returned.
 
-The purpose of this script is to combine and process dataframes sourced from excel 
-spreadsheets of ICP-MS data that have been exported from Agilent's Masshunter 
-software.
+## Getting Started
 
-The first several steps of processing ICP-MS or other elemental data is performed
-and a series of excel spreadsheets demonstrating transformations, a 
-reporting/quantification limit chart, and extracted method blanks are returned.
+#### Prerequisites
 
-The csv file "quant_limit_chart_ICPMS" should be in the same directory as the source 
-data.  The user should select appropriate values that correspond to their 
-instrument/application.
+A python environment file (.yml) has been included.
+
+#### Installing
+
+The csv file "quant_limit_chart_ICPMS" should be in the same directory as the source data.  The user should select appropriate values that correspond to their instrument/application.
+
+## Future Versions
 
 Future versions will further automate QC validation and data processing.
