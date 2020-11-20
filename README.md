@@ -11,9 +11,9 @@ The csv file "quant_limit_chart_ICPMS" should be in the same directory as the so
 
 A python environment file (.yml) has been included.
 
-Use to following to recreate the environment:
+Use to following in anaconda prompt to recreate the environment:
 
-`% conda env create -n conda-env -f /path/to/environment.yml`
+`% conda env create -n conda-env-name -f /path/to/environment.yml`
 
 ## Future Versions
 
